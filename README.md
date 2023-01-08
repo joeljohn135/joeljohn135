@@ -2,7 +2,7 @@
 
 ## I'm a Computer Science Engineering Student
 
--  2022 Goals 🥅: Learn more about NLP, Contribute more to open source projects...
+-  2023 Goals 🥅: Learn more about NLP, Contribute more to open source projects...
 - 🌱 I’m currently learning everything 🤣
 - 👯 Project collab? connect with me!!👇😁
 - 🤩 Love watching movies!!
