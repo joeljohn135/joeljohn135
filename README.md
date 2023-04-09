@@ -42,7 +42,7 @@
 
 &nbsp;&nbsp;
 
-
+<img align="left" alt="React" width="26px" src="https://www.svgrepo.com/show/452092/react.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" style="padding-right:10px;" />
 <img align="left" alt="Jupyter Notebook" width="26px" src="https://www.svgrepo.com/show/353949/jupyter.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="26px" src="https://www.svgrepo.com/show/448236/linux.svg" style="padding-right:10px;" />
