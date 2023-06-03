@@ -3,7 +3,7 @@
 ### I'm a Computer Science Engineering Student
 
 -  2023 Goals 🥅: 
-   - Learn more about NLP
+   - Learn more about Data Engineering
    - Contribute more to open source projects...
  
 
