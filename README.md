@@ -10,11 +10,11 @@
 ### Connect with me:
 
 
-[![website](./img/twitter-light.svg)](https://twitter.com/joeljoeljohn#gh-light-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/joeljoeljohn#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/joel-john-42a17156#gh-light-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/joel-john-42a17156#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/joel_john_135#gh-light-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/joel_john_135#gh-dark-mode-only)
 
 ### Languages and Tools:
 
