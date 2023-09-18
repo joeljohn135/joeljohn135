@@ -1,6 +1,6 @@
 # Hi there, I'm Joel 👋 
 
-### I'm a Computer Science Engineering Student
+### I'm a Computer Science Engineering Graduate
 
 -  2023 Goals 🥅: 
    - Learn more about Data Engineering
