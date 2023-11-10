@@ -3,7 +3,6 @@
 ### I'm a Computer Science Engineering Graduate
 
 -  2023 Goals 🥅: 
-   - Learn more about Data Engineering
    - Contribute more to open source projects...
  
 
